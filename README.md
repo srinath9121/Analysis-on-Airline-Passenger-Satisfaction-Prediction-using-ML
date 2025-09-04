@@ -12,7 +12,7 @@ The repository is structured for clarity, reproducibility, and professional pres
 ---
 
 ## 2. Dataset
-Source: [Kaggle - Airline Passenger Satisfaction](https://www.kaggle.com/datasets/sjleshrac/airline-passenger-satisfaction)  
+Source: [Kaggle - Airline Passenger Satisfaction](https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction)  
 
 **Features:**
 - **Demographics:** Gender, Age, Customer Type  
