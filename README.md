@@ -1,7 +1,3 @@
-# Airline Passenger Satisfaction - Classification
-
-
-
 # ✈️ Airline Passenger Satisfaction Prediction
 
 ## 1. Overview
