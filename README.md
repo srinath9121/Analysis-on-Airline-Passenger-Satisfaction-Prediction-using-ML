@@ -21,7 +21,7 @@ Source: [Kaggle - Airline Passenger Satisfaction](https://www.kaggle.com/dataset
 - **Delays:** Departure Delay, Arrival Delay  
 - **Target:** Satisfaction (Satisfied / Neutral or Dissatisfied)
 
-Dataset description is in [`data/README.md`](./data/README.md).
+Dataset description is in [`data/README.md`](.dataset_info.md).
 
 ---
 
