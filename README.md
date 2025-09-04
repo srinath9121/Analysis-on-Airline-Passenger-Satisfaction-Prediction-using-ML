@@ -6,7 +6,7 @@
 
 ## 1. Overview
 This project predicts airline passenger satisfaction using survey data from thousands of flights.  
-It demonstrates an **end-to-end ML workflow**: from **EDA → preprocessing → model training → hyperparameter tuning → evaluation → deployment**.  
+It demonstrates an **end-to-end ML workflow**: from **EDA → preprocessing → model training → hyperparameter tuning → evaluation**.  
 The repository is structured for clarity, reproducibility, and professional presentation.
 
 ---
@@ -41,10 +41,6 @@ Dataset description is in [`data/README.md`](./data/README.md).
 4. **Evaluation:**  
    - Metrics: Accuracy, Precision, Recall, F1, ROC-AUC, PR-AUC.  
    - Confusion matrices, ROC/PR curves, feature importance plots.  
-
-5. **Deployment:**  
-   - Best model + preprocessing pipeline saved as `final_model.pkl`.  
-   - `predict.py` enables predictions on new passengers.
 
 ---
 
