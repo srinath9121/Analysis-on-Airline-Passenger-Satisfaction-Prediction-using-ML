@@ -45,14 +45,4 @@ Dataset description is in [`data/README.md`](.dataset_info.md).
 - **Top Predictors:** Travel class, seat comfort, inflight service, departure delays.  
 - **Insight:** Service quality has greater influence on satisfaction than delays alone.  
 
-📊 See full details in [`reports/results.md`](./reports/results.md).
 
----
-
-## 5. Usage
-
-### Installation
-```bash
-git clone https://github.com/<your-username>/airplane-satisfaction.git
-cd airplane-satisfaction
-pip install -r requirements.txt
