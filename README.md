@@ -2,7 +2,7 @@
 
 ## 1. Overview
 This project predicts airline passenger satisfaction using survey data from thousands of flights.  
-It demonstrates an **end-to-end ML workflow**: from **EDA → preprocessing → model training → hyperparameter tuning → evaluation**.  
+It demonstrates an **end-to-end ML workflow**: from **EDA → preprocessing → model training → evaluation**.  
 The repository is structured for clarity, reproducibility, and professional presentation.
 
 ---
