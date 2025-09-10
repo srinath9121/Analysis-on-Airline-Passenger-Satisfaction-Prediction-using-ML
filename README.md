@@ -32,7 +32,6 @@ Dataset description is in [`data/README.md`](.dataset_info.md).
 
 3. **Modeling:**  
    - Logistic Regression, Random Forest, Gradient Boosting, XGBoost, SVM, KNN.  
-   - Hyperparameter tuning with Stratified KFold + RandomizedSearchCV.  
 
 4. **Evaluation:**  
    - Metrics: Accuracy, Precision, Recall, F1, ROC-AUC, PR-AUC.  
